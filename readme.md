@@ -86,6 +86,8 @@ D'après les cas d'utilisation identifiés, il y a 3 rôles :
 
 <h2>Ressources</h2>
 
+https://angular.io/tutorial
+
 [YouTube](https://youtu.be/xpMGCZw0UBA)
 
 **DERNIERES CONSIGNES :**
